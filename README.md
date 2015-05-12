@@ -11,9 +11,9 @@ Opiskelija voi ilmoittautua uutena opiskelijana kurssille vain yhteen kertaan. K
 Kurssi päättyy pakolliseen <a href="http://advancedkittenry.github.io/aikataulu/demo.html">demotilaisuuteen</a>, jossa jokainen esittelee projektinsa muille.
 
 **Kurssi alkaa pakollisella aloitusluennolla ma 11.5. klo 14-16 luokassa B221.**
-<!---
-:point_right: **<a href="https://docs.google.com/presentation/d/1bTKJ_oYqI0KgV2g4l-KQNqs0BrMMhPtkbLmDYbfY6FA/edit?usp=sharing">Aloitusluennon kalvot</a>**
--->
+
+<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f449.png" alt="Drawing" height="30" width="30"/> **<a href="https://github.com/AdvancedKittenry/Periodi5-2015/raw/gh-pages/kalvot/aloitusluento.pdf">Aloitusluennon kalvot</a>**
+
 
 ## Kurssimateriaali
 
@@ -55,23 +55,24 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 | **24** <br> 8.-13.5 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA**\*<br>klo.16-18<br> **Katselmointi 2** <br> klo: 23:59  |  -  |  -  |  **Palautus 5** <br> klo. 23:59 |
 | **25** <br> 15.-21.5 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA***<br>klo.16-18| **Lopullinen palautus** <br> klo. 23:59|  -  |  -  |
 
-**Kyseessä on alustava paja-aika, aikataulu voi vielä muuttua.*
+**Aikataululla on mahdollisuus vielä muuttua*
 
 Ohjaus pidetään luokassa B221 ja viikottaisten palautusten deadline on joka viikon sunnuntaina klo 23:59. Demon ajankohta on viikolla **25**, tarkempi aika päätetään myöhemmin.
 
 ## Ajankohtaista
 
 * Aloitusluento pidetään ma 11.5. klo 14-16 luokassa B122.
+* <a href="https://github.com/AdvancedKittenry/Periodi5-2015/raw/gh-pages/kalvot/aloitusluento.pdf">Aloitusluennon kalvot</a> lisätty sivulle.
 
 # Ohjaus
 
 **Ongelmien kanssa ei saa olla yksin! Jos on kysyttävää, tulee ohjaukseen, lähetä viestiä irkissä (joko suoraan ohjaajalle tai #tsoha2015 kanavalle), tai lähetä ohjaajalle sähköpostia**
 
-Kurssin ohjaukset pidetään **luokassa B221** aikana ??.
+Kurssin ohjaukset pidetään **luokassa B221** tiistaisin 13-14 sekä torstaisin 16-18.
 
 ## Ohjaaja
 
-* Nikke Kostiainen (ohjaus ??)
+* Nikke Kostiainen (ohjaus TI 13-14 B221, TO 16-18 B221)
  * email: nikke.kostiainen@helsinki.fi
  * irc: NikG
 
