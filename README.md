@@ -39,8 +39,8 @@ Kurssilla järjestetään kaksi vapaaehtoista koodikatselmointia, joissa opiskel
 
 ### Koodikatselmointien aikataulu
 
-* Viikolla 3 koodikatselmoinnin deadline on torstaina 28.5 klo 23:59
-* Viikolla 5 koodikatselmoinnin deadline on torstaina 11.6 klo 23:59
+* Viikolla 3 koodikatselmoinnin deadline on sunnuntaina 31.5 klo 23:59
+* Viikolla 5 koodikatselmoinnin deadline on sunnuntaina 14.6 klo 23:59
 
 Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maanantaina.
 
@@ -50,9 +50,9 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **20** <br> 11.-17.5 |  -  |  -  |  -  |  -  |  -  |  -  |  **Palautus 1** <br> klo. 23:59 |
 | **21** <br> 18.-24.5 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA***<br>klo.16-18|  -  |  -  |  **Palautus 2** <br> klo. 23:59 |
-| **22** <br> 25.-31.5 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA**\*<br>klo.16-18<br> **Katselmointi 1** <br> klo: 23:59  |  -  |  -  |  **Palautus 3** <br> klo. 23:59 |
+| **22** <br> 25.-31.5 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA**\*<br>klo.16-18|  -  |  -  |  **Palautus 3** <br> klo. 23:59 <br> **Katselmointi 1** <br> klo: 23:59  |
 | **23** <br> 1.-7.6 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA***<br>klo.16-18|  -  |  -  |  **Palautus 4** <br> klo. 23:59 |
-| **24** <br> 8.-13.6 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA**\*<br>klo.16-18<br> **Katselmointi 2** <br> klo: 23:59  |  -  |  -  |  **Palautus 5** <br> klo. 23:59 |
+| **24** <br> 8.-13.6 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA**\*<br>klo.16-18|  -  |  -  |  **Palautus 5** <br> klo. 23:59 <br> **Katselmointi 2** <br> klo: 23:59  |
 | **25** <br> 15.-21.6 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA***<br>klo.16-18| **Lopullinen palautus** <br> klo. 23:59|  -  |  -  |
 
 **Kyseessä on alustava paja-aika, aikataulu voi vielä muuttua.*
