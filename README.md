@@ -65,7 +65,7 @@ Ohjaus pidetään luokassa BK107 ja viikottaisten palautusten deadline on joka v
 * <a href="https://github.com/AdvancedKittenry/Periodi5-2015/raw/gh-pages/kalvot/aloitusluento.pdf">Aloitusluennon kalvot</a> lisätty sivulle.
 * **(19.5.)** Tietokantasovelluksen pajat jatkossa luokassa BK107
 * **(25.5.)** Koodikatselmointien deadlinet siirretty sunnuntaille. Viikon 3 koodikatselmoinnin deadline on siis sunnuntaina 31.5.
-* **(8.6.)** Demotilaisuudet **17.6. 16-18 BK107** ja **18.6. 18-16 BK107**
+* **(8.6.)** Demotilaisuudet **17.6. 16-18 BK107** ja **18.6. 12-14 BK107**
 
 # Ohjaus
 
