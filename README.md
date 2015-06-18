@@ -53,7 +53,7 @@ Katselmoitavat repositoriot ovat näkyvissä labtoolissa deadlineviikon maananta
 | **22** <br> 25.-31.5 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA**\*<br>klo.16-18|  -  |  -  |  **Palautus 3** <br> klo. 23:59 <br> **Katselmointi 1** <br> klo: 23:59  |
 | **23** <br> 1.-7.6 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA***<br>klo.16-18|  -  |  -  |  **Palautus 4** <br> klo. 23:59 |
 | **24** <br> 8.-13.6 |  -  |**PAJA***<br>klo.13-14|  -  |**PAJA**\*<br>klo.16-18|  -  |  -  |  **Palautus 5** <br> klo. 23:59 <br> **Katselmointi 2** <br> klo: 23:59  |
-| **25** <br> 15.-21.6 |  -  |**PAJA***<br>klo.13-14|**DEMO***<br>klo.16-18|**DEMO***<br>klo.12-14| **Lopullinen palautus** <br> klo. 23:59|  -  |  -  |
+| **25** <br> 15.-21.6 |  -  |**PAJA***<br>klo.13-14|**DEMO***<br>klo.16-18|**DEMO***<br>klo.12-14|  -  |  -  | **Lopullinen palautus** <br> klo. 23:59|
 
 **Aikataululla on mahdollisuus vielä muuttua*
 
